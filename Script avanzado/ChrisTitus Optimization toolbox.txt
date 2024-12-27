@@ -1,0 +1,4 @@
+Copia y pega este comando en el Windows PowerShell, no se va a instalarar nada, solo se abrirá
+un programa de optimizaciones.
+
+iwr -useb https://christitus.com/win | iex
